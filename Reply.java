@@ -6,5 +6,6 @@ public class Reply {
     public Reply(String text, User replyUser) {
         this.Text = text;
         ReplyUser = replyUser;
-    }
+    } 
+    
 }

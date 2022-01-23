@@ -29,6 +29,7 @@ public class Chat {
 
         boolean Done = true;
 
+        
         while (Done) {
 
             if (user.UserChats.size() == 0) {

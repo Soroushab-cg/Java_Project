@@ -116,7 +116,6 @@ public class ShowImage extends Canvas {
         }
 
         return ret;
-
     }
 
 }

@@ -31,7 +31,6 @@ public class Post {
         this.TaggedUsers = TaggedUsers;
     }
 
-
     public void AddLike(User user){
         for(Post likePost : user.LikedPosts){
             if(this == likePost){

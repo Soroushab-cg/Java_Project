@@ -22,4 +22,5 @@ public class SecurePassword {
     public static String GetHash(String Pass) throws NoSuchAlgorithmException {
         return ToHexString(GetSHA(Pass));
     }
+    
 }

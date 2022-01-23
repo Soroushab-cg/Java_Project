@@ -149,7 +149,7 @@ public class Chat {
         }
 
     }
-
+    
     public void GroupSetting(User user ,Chat chat){
         boolean Done = true;
 

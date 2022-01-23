@@ -464,6 +464,5 @@ public class User {
         }
 
         this.BlockedUsers.remove(user);
-
     }
 }

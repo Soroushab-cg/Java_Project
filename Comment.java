@@ -41,5 +41,4 @@ public class Comment {
         Reply reply = new Reply(text,user);
         this.CommentReply.add(reply);
     }
-
 }
